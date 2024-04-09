@@ -1,0 +1,36 @@
+.cont{
+  height: 190vh;
+}
+.mainImg {
+    overflow: hidden;
+  }
+  
+  .mainImg img {
+    transition: transform 0.3s ease;
+  }
+  
+  .mainImg:hover img {
+    transform: scale(3);
+   
+  }
+  
+  .img img {
+    transition: opacity 0.3s ease; /* Add transition effect for smoothness */
+  }
+  
+  .img .active {
+    opacity: 1; /* Make active image fully visible */
+  }
+  
+  .img img:hover{
+    opacity:1;
+  }
+  
+  .img .inactive {
+    opacity: 0.6; /* Reduce opacity for inactive images */
+  }
+
+  input:checked + label {
+    border-color: black;
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+  }

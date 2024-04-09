@@ -1,0 +1,40 @@
+.product-details {
+  position: relative;
+  overflow: hidden;
+  z-index: 1;
+}
+
+.product-details::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 105%;
+  margin-top: -10px;
+  height: 105%;
+  margin-left: -15px;
+  background-image: url('../images/bg4.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  filter: blur(10px);
+  z-index: -1;
+}
+
+.container {
+  min-height: 100vh;
+}
+
+/* Add this to your CSS or SCSS */
+.scrollbar-hide {
+  scrollbar-width: thin;
+  scrollbar-color: transparent transparent; /* For Firefox */
+}
+
+.scrollbar-hide::-webkit-scrollbar {
+  width: 12px;
+}
+
+.scrollbar-hide::-webkit-scrollbar-thumb {
+  background-color: transparent; /* For Chrome, Safari, and Opera */
+}

@@ -1,0 +1,12 @@
+.gall{
+    height:130vh;
+}
+.imggg{
+    object-fit: none;    
+}
+
+.imggg:hover{
+    overflow: visible;
+    transition: .35s;
+transform: translateX(-15%);
+}
