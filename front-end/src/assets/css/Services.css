@@ -1,0 +1,25 @@
+.services-section {
+  position: relative;
+  height: 105vh;
+  margin-top: -10px;
+  overflow: hidden;
+  z-index: 1;
+}
+
+.services-section::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 105%;
+  margin-top: -10px;
+  height: 105%;
+  margin-left: -15px;
+  background-image: url('../images/new.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  filter: blur(5px);
+  z-index: -1;
+}
+

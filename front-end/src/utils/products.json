@@ -1,0 +1,92 @@
+[
+  {
+    "product_id": "MAR001",
+    "name": "Blue Ocean Marble Slab",
+    "description": "Gorgeous blue ocean marble slab with intricate veining patterns.",
+    "color": "Blue",
+    "type": "Slab",
+    "price": 299.99,
+    "quantity_available": 50
+  },
+  {
+    "product_id": "MAR002",
+    "name": "Golden Vein Marble Tile",
+    "description": "Luxurious golden vein marble tile perfect for flooring or wall decor.",
+    "color": "Gold",
+    "type": "Tile",
+    "price": 49.99,
+    "quantity_available": 100
+  },
+  {
+    "product_id": "MAR003",
+    "name": "Classic White Marble Mantel",
+    "description": "Elegant white marble mantel suitable for fireplaces.",
+    "color": "White",
+    "type": "Mantel",
+    "price": 699.99,
+    "quantity_available": 20
+  },
+  {
+    "product_id": "MAR004",
+    "name": "Black Galaxy Marble Countertop",
+    "description": "Stunning black galaxy marble countertop for kitchens or bathrooms.",
+    "color": "Black",
+    "type": "Countertop",
+    "price": 899.99,
+    "quantity_available": 30
+  },
+  {
+    "product_id": "MAR005",
+    "name": "Rainbow Swirl Marble Vase",
+    "description": "Vibrant rainbow swirl marble vase, perfect for floral arrangements.",
+    "color": "Multicolor",
+    "type": "Vase",
+    "price": 129.99,
+    "quantity_available": 80
+  },
+  {
+    "product_id": "MAR006",
+    "name": "Silver Shadow Marble Coasters",
+    "description": "Sleek silver shadow marble coasters to protect your furniture.",
+    "color": "Silver",
+    "type": "Coasters",
+    "price": 19.99,
+    "quantity_available": 200
+  },
+  {
+    "product_id": "MAR007",
+    "name": "Green Oasis Marble Fountain",
+    "description": "Tranquil green oasis marble fountain for indoor or outdoor use.",
+    "color": "Green",
+    "type": "Fountain",
+    "price": 1499.99,
+    "quantity_available": 10
+  },
+  {
+    "product_id": "MAR008",
+    "name": "Royal Red Marble Sculpture",
+    "description": "Exquisite royal red marble sculpture, a statement piece for any room.",
+    "color": "Red",
+    "type": "Sculpture",
+    "price": 999.99,
+    "quantity_available": 15
+  },
+  {
+    "product_id": "MAR009",
+    "name": "Vintage Gray Marble Bookends",
+    "description": "Vintage gray marble bookends to add sophistication to your bookshelf.",
+    "color": "Gray",
+    "type": "Bookends",
+    "price": 39.99,
+    "quantity_available": 50
+  },
+  {
+    "product_id": "MAR010",
+    "name": "Mystic Purple Marble Tray",
+    "description": "Enigmatic mystic purple marble tray, ideal for serving appetizers or displaying trinkets.",
+    "color": "Purple",
+    "type": "Tray",
+    "price": 79.99,
+    "quantity_available": 40
+  }
+]
